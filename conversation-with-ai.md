@@ -1,6 +1,6 @@
 # Secure Local Company Chatbot Architecture
 
-## 1. Project Goal
+## 1. Project Goal.
 
 Build a professional, fully local company chatbot that can:
 
