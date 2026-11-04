@@ -111,3 +111,13 @@ R-Dashboard mit SQLite und KI-Analyse:
 ```r
 Rscript dashboard_pro_ki.r
 ```
+
+## Documentation
+
+- `docs/Company_AI_Assistant_Architecture_1.3_EN.md` – English translation of the
+  German architecture document *Company AI Assistant · Architektur 1.3
+  (Freigabe-Baseline Phase 0)*, 04.11.2026
+- `docs/Company_AI_Assistant_Architecture_1.3_EN.pdf` – the same translation as a
+  paginated PDF
+- `docs/TRANSLATION_NOTES.md` – inspection summary: document structure, status
+  markers, the open decisions that block the pilot, and review findings
